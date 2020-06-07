@@ -1,0 +1,82 @@
+.main-text{
+    color: crimson;
+    font-family: 'Short Stack', cursive;
+
+
+
+}
+.header-text{
+    color: crimson;
+    font-family: 'Short Stack', cursive;
+    font-weight: bolder;
+    
+    text-shadow: 2px 2px 2px whitesmoke;
+    padding-top: 15px;
+    font-size: 33px;
+    
+    
+}
+.paragraphs{
+    color: whitesmoke;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: left justify;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    word-spacing: 7px;
+
+    
+}
+.navbar-brand > img{
+    width: 45px !important;
+    background-color: black !important;
+    font-weight: bold !important;    
+}
+.navbar{
+    background-color:black !important;
+
+}
+.logotext{
+    color: crimson;
+    text-shadow: -1px 3px 2px whitesmoke;
+    font-family: 'Slackey', cursive;
+    font-size: 27px;
+}
+.alert{
+
+    padding: 0;
+    margin-bottom: -2px;
+    padding-top: 4px;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: crimson;
+    color: whitesmoke;
+
+}
+.table{
+    background-color: black;
+    color: black;
+    font-size: 25px;
+    font-family: 'Metal Mania', cursive;
+    
+   
+
+}
+.table-img-pos{
+    flex-direction: column;
+    display: flex;
+}
+.table-style{
+    background-color: crimson;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+   border-radius: 20px;
+}
+.footer{
+    background-color: crimson;
+    text-align: center;
+    color: black;
+}

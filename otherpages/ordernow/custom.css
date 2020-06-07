@@ -1,0 +1,21 @@
+
+.header-text{
+    color: crimson;
+     
+    
+    text-shadow: -1px 3px 2px whitesmoke;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+.product-mainpage{
+    background-color: black;
+    color: crimson;
+
+}
+.card{
+    background-color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+    
